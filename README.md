@@ -13,7 +13,7 @@ Detailed explanation of the screens:
 wireframes.md
 
 Figma Link:
-https://www.figma.com/make/g4pIA2E8p87K1bIqNrR16K/Accuknox-Draft
+https:https://accent-dun-71691845.figma.site
 
 ## Wireframe Preview
 
