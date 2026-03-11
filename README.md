@@ -6,7 +6,7 @@ This repository contains my solution for the AccuKnox product design assignment.
 
 Full design document:
 
-[View the write-up](accuknox-design-writeup.pdf)
+[View the write-up](./cloud-posture-dashboard-design-writeup.pdf)
 
 ## Wireframes
 Detailed explanation of the screens:
