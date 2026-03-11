@@ -18,4 +18,4 @@ https://accent-dun-71691845.figma.site
 
 ## Wireframe Preview
 
-![Cloud Posture Dashboard](assets/cloud-posture-dashboard-wireframe.png)
+![Cloud Posture Dashboard](assets/wireframe1.png)
