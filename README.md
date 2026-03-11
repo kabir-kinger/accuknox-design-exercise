@@ -11,10 +11,10 @@ Full design document:
 ## Wireframes
 Detailed explanation of the screens:
 
-wireframes.md
+[View wireframes](./wireframes.md)
 
 Figma Link:
-https:https://accent-dun-71691845.figma.site
+https://accent-dun-71691845.figma.site
 
 ## Wireframe Preview
 
