@@ -3,9 +3,10 @@
 This repository contains my solution for the AccuKnox product design assignment.
 
 ## Design Write-up
-See detailed design documentation here:
 
-design-writeup.md
+Full design document:
+
+[View the write-up](accuknox-design-writeup.pdf)
 
 ## Wireframes
 Detailed explanation of the screens:
